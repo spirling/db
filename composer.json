@@ -1,0 +1,14 @@
+{
+  "name": "spirling/db",
+  "description": "Spirling Database test",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "johnie.spirling",
+      "email": "johnie.spirling@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
