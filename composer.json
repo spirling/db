@@ -10,5 +10,12 @@
     }
   ],
   "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Spirling\\Components\\": "components",
+      "Spirling\\Db\\": "src",
+      "Spirling\\Lib\\": "lib"
+    }
   }
 }
